@@ -12,15 +12,6 @@
     <itunes:image href="https://masain12.github.io/private-podcast/podcast-show.jpeg"/>
 
     <item>
-      <title>Episode 1 - Sample Audio</title>
-      <enclosure url="https://www.dropbox.com/scl/fi/djy8j781jvi7kemk5ksxy/outputSampleAudio.mp3?rlkey=n9p631wmtshn83sh8ojbvl4xl&amp;st=mkqp4110&amp;raw=1" type="audio/mpeg"/>
-      <itunes:image href="https://masain12.github.io/private-podcast/podcast-cover.jpeg"/>
-      <guid>episode-1</guid>
-      <pubDate>Mon, 15 Jul 2025 12:00:00 GMT</pubDate>
-      <description>This is a sample test episode hosted on Dropbox.</description>
-    </item>
-
-    <item>
       <title>ES_1p1 - 2025</title>
       <enclosure url="https://www.dropbox.com/scl/fi/tdakpean7f5p488mk7hcy/ES_1p1.mp3?rlkey=vnf5xmmio51zbronq4c6681q3&amp;st=id4nano9&amp;raw=1" type="audio/mpeg"/>
       <itunes:image href="https://masain12.github.io/private-podcast/podcast-cover.jpeg"/>
