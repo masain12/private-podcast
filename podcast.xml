@@ -20,6 +20,8 @@
       <guid>episode-es-1p1</guid>
       <pubDate>Tue, 16 Jul 2025 12:00:00 CST</pubDate>
       <description>This is ES_1p1 2025 episode hosted on Dropbox.</description>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
     </item>
 
     <item>
@@ -29,6 +31,8 @@
       <guid>episode-es-1p2</guid>
       <pubDate>Tue, 16 Jul 2025 12:00:00 CST</pubDate>
       <description>This is ES_1p2 2025 episode hosted on Dropbox.</description>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
     </item>
 
     <item>
@@ -38,6 +42,8 @@
       <guid>episode-es-1p1</guid>
       <pubDate>Tue, 16 Jul 2025 12:00:00 CST</pubDate>
       <description>This is ES_1p3 2025 episode hosted on Dropbox.</description>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
     </item>
 
     <item>
@@ -47,6 +53,8 @@
       <guid>episode-es-1p2</guid>
       <pubDate>Tue, 16 Jul 2025 12:00:00 CST</pubDate>
       <description>This is ES_1p4 2025 episode hosted on Dropbox.</description>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
     </item>
 
 
@@ -61,6 +69,8 @@
       <guid>episode-es-1p2</guid>
       <pubDate>Tue, 16 Jul 2025 12:00:00 CST</pubDate>
       <description>This is ES_2p1 2025 episode hosted on Dropbox.</description>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>1</itunes:episode>
     </item>
 
     <item>
@@ -70,6 +80,8 @@
       <guid>episode-es-1p2</guid>
       <pubDate>Tue, 16 Jul 2025 12:00:00 CST</pubDate>
       <description>This is ES_2p2 2025 episode hosted on Dropbox.</description>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>2</itunes:episode>
     </item>
 
     <item>
@@ -79,6 +91,8 @@
       <guid>episode-es-1p2</guid>
       <pubDate>Tue, 16 Jul 2025 12:00:00 CST</pubDate>
       <description>This is ES_2p3 2025 episode hosted on Dropbox.</description>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>3</itunes:episode>
     </item>
 
     <item>
@@ -88,6 +102,8 @@
       <guid>episode-es-1p2</guid>
       <pubDate>Tue, 16 Jul 2025 12:00:00 CST</pubDate>
       <description>This is ES_2p4 2025 episode hosted on Dropbox.</description>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>4</itunes:episode>
     </item>
 
 
@@ -101,6 +117,8 @@
       <guid>episode-es-1p2</guid>
       <pubDate>Tue, 16 Jul 2025 12:00:00 CST</pubDate>
       <description>This is ES_3p1 2025 episode hosted on Dropbox.</description>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>1</itunes:episode>
     </item>
 
     <item>
@@ -110,6 +128,8 @@
       <guid>episode-es-1p2</guid>
       <pubDate>Tue, 16 Jul 2025 12:00:00 CST</pubDate>
       <description>This is ES_3p2 2025 episode hosted on Dropbox.</description>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>2</itunes:episode>
     </item>
 
     <item>
@@ -119,6 +139,8 @@
       <guid>episode-es-1p2</guid>
       <pubDate>Tue, 16 Jul 2025 12:00:00 CST</pubDate>
       <description>This is ES_3p3 2025 episode hosted on Dropbox.</description>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>3</itunes:episode>
     </item>
 
     <item>
@@ -128,6 +150,8 @@
       <guid>episode-es-1p2</guid>
       <pubDate>Tue, 16 Jul 2025 12:00:00 CST</pubDate>
       <description>This is ES_3p4 2025 episode hosted on Dropbox.</description>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>4</itunes:episode>
     </item>    
 
   </channel>
