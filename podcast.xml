@@ -29,6 +29,23 @@
       <description>This is ES_1p2 2025 episode hosted on Dropbox.</description>
     </item>
 
+    <item>
+      <title>ES_1p3 - 2025</title>
+      <enclosure url="https://www.dropbox.com/scl/fi/yg53w0chly051ef6yb1ip/ES_1p3.mp3?rlkey=niwostg9wnvkzvfli39tcqj30&amp;st=w08c1lem&amp;raw=1" type="audio/mpeg"/>
+      <itunes:image href="https://masain12.github.io/private-podcast/podcast-episode.jpeg"/>
+      <guid>episode-es-1p1</guid>
+      <pubDate>Tue, 16 Jul 2025 12:00:00 CST</pubDate>
+      <description>This is ES_1p3 2025 episode hosted on Dropbox.</description>
+    </item>
+
+    <item>
+      <title>ES_1p4 - 2025</title>
+      <enclosure url="https://www.dropbox.com/scl/fi/nf15xqz0rkb9jf49qwjna/ES_1p4.mp3?rlkey=jy4i3zinudb94cx19swdmvtjq&amp;st=v8m3ejz9&amp;raw=1" type="audio/mpeg"/>
+      <itunes:image href="https://masain12.github.io/private-podcast/podcast-episode.jpeg"/>
+      <guid>episode-es-1p2</guid>
+      <pubDate>Tue, 16 Jul 2025 12:00:00 CST</pubDate>
+      <description>This is ES_1p4 2025 episode hosted on Dropbox.</description>
+    </item>
 
   </channel>
 </rss>
