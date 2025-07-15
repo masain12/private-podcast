@@ -8,6 +8,7 @@
     <language>en-us</language>
     <itunes:author>Michael Sain</itunes:author>
     <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Education"/>
     <itunes:image href="https://masain12.github.io/private-podcast/podcast-show.jpg"/>
 
     <item>
