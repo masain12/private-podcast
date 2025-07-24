@@ -481,7 +481,183 @@
       <description>This is ES_3p4 2025 episode hosted on Dropbox.</description>
       <itunes:season>6</itunes:season>
       <itunes:episode>4</itunes:episode>
-    </item>    
+    </item>
+
+    <item>
+      <title>ES_4p1 - 2025</title>
+      <enclosure url="" type="audio/mpeg"/>
+      <itunes:image href="https://masain12.github.io/private-podcast/podcast-episode.jpeg"/>
+      <guid>episode-es-4p1</guid>
+      <pubDate>Tue, 18 Jul 2025 12:00:01 CST</pubDate>
+      <description>This is ES_4p1 2025 episode hosted on Dropbox.</description>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>1</itunes:episode>
+    </item>
+
+    <item>
+      <title>ES_4p2 - 2025</title>
+      <enclosure url="" type="audio/mpeg"/>
+      <itunes:image href="https://masain12.github.io/private-podcast/podcast-episode.jpeg"/>
+      <guid>episode-es-4p2</guid>
+      <pubDate>Tue, 18 Jul 2025 12:00:02 CST</pubDate>
+      <description>This is ES_4p2 2025 episode hosted on Dropbox.</description>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>2</itunes:episode>
+    </item>
+
+    <item>
+      <title>ES_4p3 - 2025</title>
+      <enclosure url="" type="audio/mpeg"/>
+      <itunes:image href="https://masain12.github.io/private-podcast/podcast-episode.jpeg"/>
+      <guid>episode-es-4p3</guid>
+      <pubDate>Tue, 18 Jul 2025 12:00:03 CST</pubDate>
+      <description>This is ES_4p3 2025 episode hosted on Dropbox.</description>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>3</itunes:episode>
+    </item>
+
+    <item>
+      <title>ES_4p4 - 2025</title>
+      <enclosure url="" type="audio/mpeg"/>
+      <itunes:image href="https://masain12.github.io/private-podcast/podcast-episode.jpeg"/>
+      <guid>episode-es-4p4</guid>
+      <pubDate>Tue, 18 Jul 2025 12:00:04 CST</pubDate>
+      <description>This is ES_4p4 2025 episode hosted on Dropbox.</description>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>4</itunes:episode>
+    </item>
+
+    <item>
+      <title>ES_5p1 - 2025</title>
+      <enclosure url="" type="audio/mpeg"/>
+      <itunes:image href="https://masain12.github.io/private-podcast/podcast-episode.jpeg"/>
+      <guid>episode-es-5p1</guid>
+      <pubDate>Tue, 19 Jul 2025 12:00:01 CST</pubDate>
+      <description>This is ES_5p1 2025 episode hosted on Dropbox.</description>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>1</itunes:episode>
+    </item>
+
+    <item>
+      <title>ES_5p2 - 2025</title>
+      <enclosure url="" type="audio/mpeg"/>
+      <itunes:image href="https://masain12.github.io/private-podcast/podcast-episode.jpeg"/>
+      <guid>episode-es-5p2</guid>
+      <pubDate>Tue, 19 Jul 2025 12:00:02 CST</pubDate>
+      <description>This is ES_5p2 2025 episode hosted on Dropbox.</description>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>2</itunes:episode>
+    </item>
+
+    <item>
+      <title>ES_5p3 - 2025</title>
+      <enclosure url="" type="audio/mpeg"/>
+      <itunes:image href="https://masain12.github.io/private-podcast/podcast-episode.jpeg"/>
+      <guid>episode-es-5p3</guid>
+      <pubDate>Tue, 19 Jul 2025 12:00:03 CST</pubDate>
+      <description>This is ES_5p3 2025 episode hosted on Dropbox.</description>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>3</itunes:episode>
+    </item>
+
+    <item>
+      <title>ES_5p4 - 2025</title>
+      <enclosure url="" type="audio/mpeg"/>
+      <itunes:image href="https://masain12.github.io/private-podcast/podcast-episode.jpeg"/>
+      <guid>episode-es-5p4</guid>
+      <pubDate>Tue, 19 Jul 2025 12:00:04 CST</pubDate>
+      <description>This is ES_5p4 2025 episode hosted on Dropbox.</description>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>4</itunes:episode>
+    </item>
+
+    <item>
+      <title>ES_6p1 - 2025</title>
+      <enclosure url="" type="audio/mpeg"/>
+      <itunes:image href="https://masain12.github.io/private-podcast/podcast-episode.jpeg"/>
+      <guid>episode-es-6p1</guid>
+      <pubDate>Tue, 20 Jul 2025 12:00:01 CST</pubDate>
+      <description>This is ES_6p1 2025 episode hosted on Dropbox.</description>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>1</itunes:episode>
+    </item>
+
+    <item>
+      <title>ES_6p2 - 2025</title>
+      <enclosure url="" type="audio/mpeg"/>
+      <itunes:image href="https://masain12.github.io/private-podcast/podcast-episode.jpeg"/>
+      <guid>episode-es-6p2</guid>
+      <pubDate>Tue, 20 Jul 2025 12:00:02 CST</pubDate>
+      <description>This is ES_6p2 2025 episode hosted on Dropbox.</description>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>2</itunes:episode>
+    </item>
+
+    <item>
+      <title>ES_6p3 - 2025</title>
+      <enclosure url="" type="audio/mpeg"/>
+      <itunes:image href="https://masain12.github.io/private-podcast/podcast-episode.jpeg"/>
+      <guid>episode-es-6p3</guid>
+      <pubDate>Tue, 20 Jul 2025 12:00:03 CST</pubDate>
+      <description>This is ES_6p3 2025 episode hosted on Dropbox.</description>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>3</itunes:episode>
+    </item>
+
+    <item>
+      <title>ES_6p4 - 2025</title>
+      <enclosure url="" type="audio/mpeg"/>
+      <itunes:image href="https://masain12.github.io/private-podcast/podcast-episode.jpeg"/>
+      <guid>episode-es-6p4</guid>
+      <pubDate>Tue, 20 Jul 2025 12:00:04 CST</pubDate>
+      <description>This is ES_6p4 2025 episode hosted on Dropbox.</description>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>4</itunes:episode>
+    </item>
+
+    <item>
+      <title>ES_7p1 - 2025</title>
+      <enclosure url="" type="audio/mpeg"/>
+      <itunes:image href="https://masain12.github.io/private-podcast/podcast-episode.jpeg"/>
+      <guid>episode-es-7p1</guid>
+      <pubDate>Tue, 21 Jul 2025 12:00:01 CST</pubDate>
+      <description>This is ES_7p1 2025 episode hosted on Dropbox.</description>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>1</itunes:episode>
+    </item>
+
+    <item>
+      <title>ES_7p2 - 2025</title>
+      <enclosure url="" type="audio/mpeg"/>
+      <itunes:image href="https://masain12.github.io/private-podcast/podcast-episode.jpeg"/>
+      <guid>episode-es-7p2</guid>
+      <pubDate>Tue, 21 Jul 2025 12:00:02 CST</pubDate>
+      <description>This is ES_7p2 2025 episode hosted on Dropbox.</description>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>2</itunes:episode>
+    </item>
+
+    <item>
+      <title>ES_7p3 - 2025</title>
+      <enclosure url="" type="audio/mpeg"/>
+      <itunes:image href="https://masain12.github.io/private-podcast/podcast-episode.jpeg"/>
+      <guid>episode-es-7p3</guid>
+      <pubDate>Tue, 21 Jul 2025 12:00:03 CST</pubDate>
+      <description>This is ES_7p3 2025 episode hosted on Dropbox.</description>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>3</itunes:episode>
+    </item>
+
+    <item>
+      <title>ES_7p4 - 2025</title>
+      <enclosure url="" type="audio/mpeg"/>
+      <itunes:image href="https://masain12.github.io/private-podcast/podcast-episode.jpeg"/>
+      <guid>episode-es-7p4</guid>
+      <pubDate>Tue, 21 Jul 2025 12:00:04 CST</pubDate>
+      <description>This is ES_7p4 2025 episode hosted on Dropbox.</description>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>4</itunes:episode>
+    </item>  
 
   </channel>
 </rss>
